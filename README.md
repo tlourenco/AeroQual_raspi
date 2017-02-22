@@ -1,6 +1,6 @@
 # AeroQual + raspberry
 
-Loggin the data from AeroQual to raspbarry.
+Loggin the data from AeroQual to Raspberry PI by I2C comunication.
 
 ## Compatibilities
 .+ S500.
